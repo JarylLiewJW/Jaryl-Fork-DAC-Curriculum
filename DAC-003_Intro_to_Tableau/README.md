@@ -4,7 +4,7 @@ Welcome to the **Intro to Tableau** lesson! Below are the resources and material
 
 ## Class Materials
 
-### Google Drive Links:
+### Google Drive Links
 
 - **Full Class Materials** (from Intro to Python until now):  
   [Access Class Materials](https://drive.google.com/drive/folders/1ddnaskSA29LGFz_ORqya3H5f2qDEk3Uz?usp=sharing)
@@ -14,7 +14,7 @@ Welcome to the **Intro to Tableau** lesson! Below are the resources and material
 
 The Tableau guide includes extra information that will be useful for your coursework and future projects. Be sure to review these resources.
 
-## Download Tableau Lesson File:
+## Download Tableau Lesson File
 
 You can download the Tableau lesson file directly from here:
 
